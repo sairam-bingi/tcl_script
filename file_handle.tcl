@@ -6,7 +6,7 @@
 # Contents:                                    #
 #    1. Simple file writing example            #
 #                                              #
-# Note: Suggestion are welcomed.               #
+# Note: Suggestions are welcomed.              #
 #                                              #
 # ##############################################
 
