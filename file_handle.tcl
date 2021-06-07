@@ -1,6 +1,6 @@
 # ##############################################
 #                                              #
-# Designer: Sairam Bingi                         #
+# Designer: Sairam Bingi                       #
 # Topic: File handling in Tcl/Tk               #
 # Language: Tcl/Tk                             #
 # Contents:                                    #
@@ -10,6 +10,8 @@
 #                                              #
 # ##############################################
 
+# Usage: simple_txt_file_wr [file_size]
+# Eg: simple_txt_file_wr 5
 proc simple_txt_file_wr { file_size } {
    puts "This code demonstrates basic file writing"
    set filename "output_file.txt"
